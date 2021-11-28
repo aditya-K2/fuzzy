@@ -3,7 +3,7 @@ package fuzzy_test
 import (
 	"testing"
 
-	"github.com/sahilm/fuzzy"
+	"github.com/aditya-K2/fuzzy"
 
 	"io/ioutil"
 	"strings"
